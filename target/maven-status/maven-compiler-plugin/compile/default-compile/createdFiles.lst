@@ -1,0 +1,11 @@
+it\objectway\stage\JpaMovies\film\FilmCrudImpl.class
+it\objectway\stage\JpaMovies\entity\Recita.class
+it\objectway\stage\JpaMovies\recita\RecitaCrud.class
+it\objectway\stage\JpaMovies\App.class
+it\objectway\stage\JpaMovies\entity\Film.class
+it\objectway\stage\JpaMovies\EntityManagerUtil.class
+it\objectway\stage\JpaMovies\film\FilmCrud.class
+it\objectway\stage\JpaMovies\entity\Attore.class
+it\objectway\stage\JpaMovies\recita\RecitaCrudImpl.class
+it\objectway\stage\JpaMovies\attore\AttoreCrudImpl.class
+it\objectway\stage\JpaMovies\attore\AttoreCrud.class
